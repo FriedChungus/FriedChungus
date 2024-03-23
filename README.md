@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FriedChungus
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Python
+- 📫 How to reach me @oliviertheore On Twitter
+-
